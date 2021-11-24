@@ -1,0 +1,5 @@
+Training Time: 2.549842
+Testing Time: 0.90501815
+Accuracy: 0.4292845257903494
+Precision: 0.4292845257903494
+Recall: 1.0
